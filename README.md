@@ -7,4 +7,5 @@ Thus project is a fully functional **Signup & Login Form** featuring modern web 
 
 The forms include real-time validation feedback, password strength indicators, and password visibility toggles - all implemented using vanilla JavaScript without any frameworks or libraries.
 
-✨ ## Features
+## Features ✨
+### Authentication Forms 🔐
