@@ -9,3 +9,4 @@ The forms include real-time validation feedback, password strength indicators, a
 
 ## Features ✨
 ### Authentication Forms 🔐
+- **Login Form** - Email and password authentication.
