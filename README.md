@@ -12,3 +12,9 @@ The forms include real-time validation feedback, password strength indicators, a
 - **Login Form** - Email and password authentication.
 - **Signup Form** - User registration with confirmation.
 ## Form Validation ✅
+- Real-time email format validation using regex.
+- Password strength requirements (8 - 20 characters).
+- Password confirmation matching.
+- Empty field detection.
+- Visual error indicators with colored borders.
+- Clear, actionable error messages.
