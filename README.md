@@ -3,6 +3,13 @@
 
 ## Images
 
+<<<<<<< HEAD
+=======
+
+https://github.com/user-attachments/assets/e56a966d-1531-4f50-b547-e1a5ebc1edbc
+
+
+>>>>>>> ea1a9704c364ce7082b0f847534a0959da7ab42d
 
 ## Overview 🎯
 Thus project is a fully functional **Signup & Login Form** featuring modern web development practices. It demonstrates proficiency in front-end development fundamentals including DOM manipulation, form validation, regular expressions, and responsive design.
