@@ -35,8 +35,12 @@ The forms include real-time validation feedback, password strength indicators, a
 - Works on all password fields independently.
 - Accessible with keyboard navigation.
 
-
-
+## Modern UI/UX 🎨
+- Split-screen design with background image.
+- Purple accent color scheme (#8672FF).
+- Smooth transitions and hover effects.
+- Responsive layout for all screen sizes.
+- Custom Google Fonts (Poppins).
 
 
 
