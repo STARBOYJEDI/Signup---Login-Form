@@ -28,3 +28,18 @@ The forms include real-time validation feedback, password strength indicators, a
     - Uppercase letters
     - Numbers
     - Special characters
+
+## Password Visibility Toggle 👁️
+- Eye icon for toggling password visibility.
+- Smooth icon transitions.
+- Works on all password fields independently.
+- Accessible with keyboard navigation.
+
+
+
+
+
+
+
+
+
