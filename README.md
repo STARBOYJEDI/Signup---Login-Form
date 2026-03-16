@@ -11,6 +11,7 @@ The forms include real-time validation feedback, password strength indicators, a
 ### Authentication Forms 🔐
 - **Login Form** - Email and password authentication.
 - **Signup Form** - User registration with confirmation.
+
 ## Form Validation ✅
 - Real-time email format validation using regex.
 - Password strength requirements (8 - 20 characters).
@@ -18,3 +19,12 @@ The forms include real-time validation feedback, password strength indicators, a
 - Empty field detection.
 - Visual error indicators with colored borders.
 - Clear, actionable error messages.
+
+## Password Strength Indicator 💪
+- Dynamic strength meter (Weak/Medium/Strong).
+- Animated progress bar with color coding.
+    - Length (8+ characters, 12+ characters)
+    - Lowercase letters
+    - Uppercase letters
+    - Numbers
+    - Special characters
