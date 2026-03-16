@@ -1,7 +1,9 @@
 # Signup & Login Form
 ## A modern, responsive signup and login form with advanced form validation, password strength indicator, and interactive UI elements. Built with vanilla HTML, CSS, and JavaScript.
+
 ## Images
 ![VID1](demo/Demo3.mp4)
+
 ## Overview 🎯
 Thus project is a fully functional **Signup & Login Form** featuring modern web development practices. It demonstrates proficiency in front-end development fundamentals including DOM manipulation, form validation, regular expressions, and responsive design.
 
