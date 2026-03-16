@@ -45,7 +45,12 @@ The forms include real-time validation feedback, password strength indicators, a
 - Responsive layout for all screen sizes.
 - Custom Google Fonts (Poppins).
 
-
+## Accessibility Features ♿
+- Semantic HTML feature.
+- ARIA labels for screen readers.
+- Keyboard navigation support.
+- Focus indicators.
+- Proper form labels.
 
 
 
