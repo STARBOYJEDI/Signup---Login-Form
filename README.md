@@ -2,10 +2,6 @@
 ## A modern, responsive signup and login form with advanced form validation, password strength indicator, and interactive UI elements. Built with vanilla HTML, CSS, and JavaScript.
 
 ## Demo
-
-
-=======
-
 https://github.com/user-attachments/assets/e56a966d-1531-4f50-b547-e1a5ebc1edbc
 
 
