@@ -84,4 +84,9 @@ The forms include real-time validation feedback, password strength indicators, a
 - A code editor (VS Code, Sublime Text, etc.)
 - Basic knowledge of HTML/CSS/JavaScript
 
-
+## Steps 🚦
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+    - sign.html
+    - login.html
+3. Open in your browser.
