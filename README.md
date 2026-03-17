@@ -63,4 +63,4 @@ The forms include real-time validation feedback, password strength indicators, a
 | Technology | Purpose |  |
 |------------|---------|------|
 | **HTML5** | Semantic structure and form elements | 📝 |
-| **CSS3** | Styling, animations, responsive design | 🎨 |
+| **CSS3**  | Styling, animations, responsive design | 🎨 |
