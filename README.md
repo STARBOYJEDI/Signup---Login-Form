@@ -52,6 +52,7 @@ The forms include real-time validation feedback, password strength indicators, a
 - Focus indicators.
 - Proper form labels.
 
-
-
+## Demo 🚀
+### Signup From:
+![IMG9](demo/LGX9.png)
 
