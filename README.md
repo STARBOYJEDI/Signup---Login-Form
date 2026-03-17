@@ -64,3 +64,6 @@ The forms include real-time validation feedback, password strength indicators, a
 |------------|---------|------|
 | **HTML5** | Semantic structure and form elements | 📝 |
 | **CSS3**  | Styling, animations, responsive design | 🎨 |
+| **JavaScript (ES6+)** | From validation, DOM manipulation, interactivity | ⚡ |
+| **Google Font** | Poppins font family | 🔤 |
+| **SVG** | Icons for visual elements | 🎯 |
