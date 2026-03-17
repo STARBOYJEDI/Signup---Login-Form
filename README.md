@@ -78,6 +78,10 @@ The forms include real-time validation feedback, password strength indicators, a
 - ✅ Form Validation Logic
 - ✅ Conditional Rendering
 
-
+## Installation 📦
+### Prerequisites
+- A modern web browser (Chrome, Firefox, Safari, Edge)
+- A code editor (VS Code, Sublime Text, etc.)
+- Basic knowledge of HTML/CSS/JavaScript
 
 
