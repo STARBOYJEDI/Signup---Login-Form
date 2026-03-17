@@ -69,7 +69,8 @@ The forms include real-time validation feedback, password strength indicators, a
 | **SVG** | Icons for visual elements | 🎯 |
 
 ## Key Techniques Demonstrated:
-- DOM Manipulation (**querySelector**,)
+- ✅ DOM Manipulation (**querySelector**, **createElement**, **addEventListener**)
+- ✅
 
 
 
