@@ -60,6 +60,6 @@ The forms include real-time validation feedback, password strength indicators, a
 ![IMG13](demo/LGX13.png)
 
 ## Technologies Used 🛠️
-| Technology | Purpose | Icon |
+| Technology | Purpose |  |
 |------------|---------|------|
 | **HTML5** | Semantic structure and form elements | 📝 |
