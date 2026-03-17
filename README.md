@@ -90,3 +90,28 @@ The forms include real-time validation feedback, password strength indicators, a
     - sign.html
     - login.html
 3. Open in your browser.
+
+## Future Enhancements 🚧
+### Planned Features
+- Backend integration (Node.js/Express)
+- Database integration (MongoDB/PostgreSQL)
+- JWT authentication
+- Session management
+- Password reset functionality
+- "Remember Me" checkbox
+- Social Login (Google, Facebook)
+- Email verification
+- Two-factor authentication (2FA)
+- Rate limiting for failed login attempts
+- CAPTCHA integration
+- Dark mode toggle
+- Internationalization (i18n)
+- Success animations
+- Loading states during submission
+
+
+
+
+
+
+
