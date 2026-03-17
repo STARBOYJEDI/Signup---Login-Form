@@ -57,3 +57,4 @@ The forms include real-time validation feedback, password strength indicators, a
 ![IMG9](demo/LGX9.png)
 
 ## Login Form:
+![IMG13](demo/LGX13.png)
