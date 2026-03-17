@@ -70,7 +70,13 @@ The forms include real-time validation feedback, password strength indicators, a
 
 ## Key Techniques Demonstrated:
 - ✅ DOM Manipulation (**querySelector**, **createElement**, **addEventListener**)
-- ✅
+- ✅ Regular Expressions (Email Validation)
+- ✅ Event Handling (submit, input, click events)
+- ✅ CSS Flexbox (Responsive layout)
+- ✅ CSS Custom Properties (Color theming)
+- ✅ CSS Technologies & Animations
+- ✅ Form Validation Logic
+- ✅ Conditional Rendering
 
 
 
