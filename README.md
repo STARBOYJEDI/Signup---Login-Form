@@ -58,3 +58,6 @@ The forms include real-time validation feedback, password strength indicators, a
 
 ## Login Form:
 ![IMG13](demo/LGX13.png)
+
+## Technologies Used 🛠️
+### Technology                  ### Purpose
