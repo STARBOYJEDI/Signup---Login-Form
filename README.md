@@ -60,4 +60,4 @@ The forms include real-time validation feedback, password strength indicators, a
 ![IMG13](demo/LGX13.png)
 
 ## Technologies Used 🛠️
-### Technology                  ### Purpose
+### Technology                      Purpose
