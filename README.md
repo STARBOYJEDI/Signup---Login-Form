@@ -67,3 +67,10 @@ The forms include real-time validation feedback, password strength indicators, a
 | **JavaScript (ES6+)** | From validation, DOM manipulation, interactivity | ⚡ |
 | **Google Font** | Poppins font family | 🔤 |
 | **SVG** | Icons for visual elements | 🎯 |
+
+## Key Techniques Demonstrated:
+- DOM Manipulation (**querySelector**,)
+
+
+
+
